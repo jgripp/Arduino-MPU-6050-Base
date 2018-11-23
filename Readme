@@ -1,0 +1,4 @@
+This project is my introduction to the MPU-6050 accelerometer gyro SOC.  I am using a GY-521 board and an Arduino UNO.
+
+The objective is learn the MPU-6050 and accelerometer/gyro operation to simulate an application to detect tilt angle 
+greater than a threshold after calibrating the GY-521 in ist current orientation.
